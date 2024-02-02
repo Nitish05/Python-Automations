@@ -32,3 +32,39 @@ Clone this repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Nitish05/Python-Automations.git
+```
+
+## Configuration and Usage
+### File Consolidation Script
+1. Open file_consolidation_script.py in a text editor.
+2. Set source_directory and target_directory with the paths to your desired source and target directories.
+```python
+source_directory = "<Your Source Directory Goes Here>"
+target_directory = "<Your Target Directory Goes Here>"
+```
+### Run the script:
+```bash
+python file_consolidation_script.py
+```
+### File Sorting Script
+1. Open file_sorting_script.py in a text editor.
+2. Set path to the directory you wish to organize:
+```python
+path = "<Your File Path Goes Here>"
+```
+### Run the script:
+```bash
+python file_sorting_script.py
+```
+## How It Works
+The File Consolidation Script moves files from multiple subdirectories into a single directory, renaming duplicates when necessary.
+The File Sorting Script organizes files into folders named after their extensions, operating both on the main directory and its subdirectories.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Disclaimer
+Please ensure you have backups of your data before running these scripts, especially when organizing important files. The authors take no responsibility for lost or incorrectly sorted files due to script execution.
+
+## Support
+If you encounter any issues or have questions, please file an issue on the GitHub project page. We're here to help.
