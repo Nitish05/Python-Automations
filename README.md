@@ -69,6 +69,3 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ## Disclaimer
 Please ensure you have backups of your data before running these scripts, especially when organizing important files. The authors take no responsibility for lost or incorrectly sorted files due to script execution.
-
-## Support
-If you encounter any issues or have questions, please file an issue on the GitHub project page. We're here to help.
